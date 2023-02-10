@@ -19,7 +19,7 @@ int main()
     int arr1[n]; // gia tri diem cua hoc sinh
     int arr2[n]; // mang chua gia tri so luong diem dung truoc
     int arr4[n]; // mang luu ket qua
-    int arr3[n]; // mang luu gia tri tam thoi de xu ly
+    int arr3[n]; // mang luu gia tri tam thoi 
 
     printf("nhap mang 1 \n");
     for(i = 0; i < n; ++i)
